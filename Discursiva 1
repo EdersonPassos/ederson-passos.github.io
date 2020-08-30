@@ -1,0 +1,62 @@
+<html>
+
+  <head>
+    <title>Discursiva 1 - Ederson Passos</title>
+  </head>
+
+<body bgcolor="#000000">
+
+  <table border="4" align="center"  width="100%" height="50"  bgcolor="#363636" bordercolor="#000000">
+    <tr> <!--Linha do cabeçalho, englobando 4 colunas na tabela-->
+      <th colspan="7"><font color="#DCDCDC" size="5">METALLICA - MAIORES SUCESSOS</font></th>
+    </tr>
+    <tr> <!--Linha 1-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=0m6smR-M2qg" target="_blanck"><font color="#DCDCDC">For Whom the Bell Tolls</font></a></td> <!--Coluna 1-->
+      <td colspan="2" rowspan="5" width="30%"><font size="2" color="#DCDCDC"><p align=”justify”>O Metallica, uma das bandas que mais vendeu na história americana, nasceu em 28 de outubro de 1981, quando o baterista Lars Ulrich e o guitarrista / cantor James Hetfield se reuniram por meio do anúncio de Ulrich no jornal LA Recycler.</p></font></td> <!--Coluna 2-->
+      <td colspan="2" rowspan="5" width="30%"><img src="james.jpg"></td> <!--Coluna 4-->
+      <td colspan="2" rowspan="5" width="30%"><font size="2" color="#DCDCDC"><p align=”justify”>Logo, os dois recrutaram Ron McGovney, amigo e colega de casa de Hetfield, para tocar baixo, Dave Mustaine para tocar guitarra, e adotaram o nome de Metallica após uma sugestão do amigo da cena metal da Bay Area, Ron Quintana. Sua ascensão deveria ser relativamente rápida, impulsionada por pura taxa de trabalho, esforço e uma química musical rara.</p></font></td> <!--Coluna 6-->
+    </tr>
+    <tr> <!--Linha 2-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=tAGnKpE4NCI" target="_blanck"><font color="#DCDCDC">Nothing Else Matters</font></a></td>
+    </tr>
+    <tr> <!--Linha 3-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=Ckom3gf57Yw" target="_blanck"><font color="#DCDCDC">The Unforgiven</font></a></td>
+    </tr>
+    <tr> <!--Linha 4-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=WM8bTdBs-cw" target="_blanck"><font color="#DCDCDC">One</font></a></td>
+    </tr>
+    <tr> <!--Linha 5-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=CD-E-LDc384" target="_blanck"><font color="#DCDCDC">Enter Sandman</font></a></td>
+    </tr>
+    <tr> <!--Linha 6-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=cJOSvvdy27I" target="_blanck"><font color="#DCDCDC">Master of Puppets</font></a></td>
+      <td colspan="2" rowspan="5" width="25%"><img src="metallica.png"></td> <!--Coluna 2-->
+      <td colspan="2" rowspan="5" width="25%"><font size="2" color="#DCDCDC"><center>Em 1991, o Metallica lançou seu álbum autointitulado - mais conhecido pelos fãs como The Black Album. O novo produtor Bob Rock focou a banda em um som mais completo com arranjos mais simples, e foi direto para o número um em todo o mundo ... e realmente não saiu por alguns anos, vendendo mais de 16 milhões de cópias em todo o mundo, gerando vários singles legítimos e ganhando vários prêmios da indústria, incluindo um Grammy, MTV e American Music Awards. “Enter Sandman” continua sendo um de seus hinos característicos, enquanto sua primeira incursão completa em algo mais baládico, “Nothing Else Matters”, empatizou com o coração de milhões.</center></font></td> <!--Coluna 3-->
+      <td colspan="2" rowspan="5" width="25%"><img src="banda.jpg"></td> <!--Coluna 4-->
+    </tr>
+    <tr> <!--Linha 7-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=bNK6dm_rb1Q" target="_blanck"><font color="#DCDCDC">The Four Horsemen</font></a></td>
+    </tr>
+    <tr> <!--Linha 8-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=9MNdOCQYOL8" target="_blanck"><font color="#DCDCDC">Whiskey in the Jar</font></a></td>
+    </tr>
+    <tr> <!--Linha 9-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=0FMfsT11pdA" target="_blanck"><font color="#DCDCDC">Fade to Black</font></a></td>
+    </tr>
+    <tr> <!--Linha 10-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=j1_FjJu-1fY" target="_blanck"><font color="#DCDCDC">Seek & Destroy</font></a></td>
+    </tr>
+    <tr> <!--Linha 11-->
+      <td align="center" width="10%"><a href ="https://www.youtube.com/watch?v=tRJxnxVu3C8" target="_blanck"><font color="#DCDCDC">Battery</font></a></td>
+      <td colspan="4"><center><font size="2" color="DCDCDC">Uma das maiores bandas de heavy metal!</font></center></td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td colspan="2" rowspan="2" width="25%"><img src="banda2.png"></td>
+      <td colspan="2" rowspan="2" width="25%"><font size="2" color="#DCDCDC"><p align=”justify”>Quase 40 anos de sucesso.</p></font></td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
